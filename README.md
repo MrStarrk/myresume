@@ -26,7 +26,7 @@
 
 - :zap: В свободное время решаю задачи на платформе TryHackMe.
 
-- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/qr/HZUJ22RZDD4EE1) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/fr3d12)
+- :mailbox: Как со мной связаться: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/qr/HZUJ22RZDD4EE1) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/fr3d12)
 
 ### :hammer_and_wrench: Навыки :
 - :dependabot: Опыт работы с OC Windows, Linux, RedOC.
